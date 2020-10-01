@@ -60,6 +60,7 @@ features related to the conventional commit specification. Anything else shall b
 At the moment cocogitto is only available via [crates.io](https://crates.io/crates/cocogitto)
 
 ```
+rustup default nightly
 cargo install cocogitto
 ```
 
