@@ -1,6 +1,6 @@
-[submodule "aur"]
-	path = aur
-	url = ssh://aur@aur.archlinux.org/cocogitto-bin.git
+# [submodule "aur"]
+# 	path = aur
+# 	url = ssh://aur@aur.archlinux.org/cocogitto-bin.git
 [submodule "guide/themes/adidoks"]
 	path = guide/themes/adidoks
 	url = https://github.com/aaranxu/adidoks.git
